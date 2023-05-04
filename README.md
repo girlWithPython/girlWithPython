@@ -1,7 +1,9 @@
 Olha Omelchenko
 
 QA Engineer, QA Automation Engineer
+
 Phone: 0676964190
+
 E-mail: pravdorubka1979@gmail.com
 
 Summary:
