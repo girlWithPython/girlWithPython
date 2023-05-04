@@ -1,11 +1,11 @@
 Olha Omelchenko
 
 QA Engineer, QA Automation Engineer
-
 Phone: 0676964190
 E-mail: pravdorubka1979@gmail.com
 
 Summary:
+
 ● 2+ year of professional experience in the Information Technology industry specializing in Quality Assurance;
 ● Thorough experience in automation and manual testing (functional, regression, security, compatibility, usability,
 portability, localization testing, etc.);
@@ -18,6 +18,7 @@ of test documentation (test cases, test plans, checklists, bug reports, etc.);
 - Databases.
 
 Skills:
+
 Testing Environments and Tools:
 MS Visual Studio, IntelliJ IDEA, PyCharm, Selenium for C#, REST Assured, JMeter, XPath, CSS selectors, HTML,
 CSS, TestRail, Postman
