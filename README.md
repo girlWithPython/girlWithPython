@@ -1,16 +1,30 @@
-### Hi there 👋
+Olha Omelchenko
 
-<!--
-**girlWithPython/girlWithPython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer, QA Automation Engineer
+Phone: 0676964190
+E-mail: pravdorubka1979@gmail.com
 
-Here are some ideas to get you started:
+Summary:
+● 2+ year of professional experience in the Information Technology industry specializing in Quality Assurance;
+● Thorough experience in automation and manual testing (functional, regression, security, compatibility, usability,
+portability, localization testing, etc.);
+● Experience in working in large distributed teams;
+● Wide range of software testing expertise and QA skills (design and development
+of test documentation (test cases, test plans, checklists, bug reports, etc.);
+● Testing of:
+- Web, desktop applications;
+- Web services and API;
+- Databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+Testing Environments and Tools:
+MS Visual Studio, IntelliJ IDEA, PyCharm, Selenium for C#, REST Assured, JMeter, XPath, CSS selectors, HTML,
+CSS, TestRail, Postman
+Databases:
+MS SQL Server, My SQL, PostgreSQL
+Bug Tracking Tools Jira, Azure, Asana
+Source Version Control: Git
+Building and CI Tools:
+TeamCity, Jenkins with plug-ins such as Allure report, Jira, Slack notification, Maven, JUnit,
+Workflow, Gherkin language-based BDT framework
+Operating Systems: MS Windows
