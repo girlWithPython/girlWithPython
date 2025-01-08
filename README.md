@@ -1,7 +1,7 @@
 Olha Omelchenko
 
 
-QA Engineer, QA Automation Engineer
+Data Analyst, QA Engineer, QA Automation Engineer
 
 Phone: 0676964190
 
