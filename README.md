@@ -9,7 +9,7 @@ E-mail: pravdorubka1979@gmail.com
 
 Summary:
 
-● 4+ year of professional experience in the Information Technology industry specializing in Quality Assurance;
+● 5+ year of professional experience in the Information Technology industry specializing in Quality Assurance;
 ● Thorough experience in automation and manual testing (functional, regression, security, compatibility, usability,
 portability, localization testing, etc.);
 ● Experience in working in large distributed teams;
